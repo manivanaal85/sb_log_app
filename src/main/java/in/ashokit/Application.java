@@ -18,6 +18,7 @@ public class Application {
 	public void m2(){
 		int a = 10;
 		int b = 20;
+		int name = jana;
 		//logic		
 	}
 }
